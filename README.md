@@ -14,3 +14,9 @@ To begin with, Dashboard showing the key health and environmental indicators for
 
 1. Develop a functionized pipeline to convert a given google earth engine raster data to h3 spatial indices
 2. Explore more sprectral indices and other spatial data
+
+
+## Industries
+
+List of companies that work in similar roles:
+1. [lobelia.earth](https://www.lobelia.earth/)
