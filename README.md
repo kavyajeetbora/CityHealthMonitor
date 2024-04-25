@@ -20,4 +20,7 @@ To begin with, Dashboard showing the key health and environmental indicators for
 
 List of companies that work in similar roles:
 1. [lobelia.earth](https://www.lobelia.earth/)
-2. [Flood prediction in Bangladesh](https://www.omdena.com/blog/floodguard-integrating-rainfall-time-series-and-gis-data-for-flood-prediction-and-waterbody-forecasting-in-bangladesh)
+
+
+## Articles and Projects:
+1. [Flood prediction in Bangladesh](https://www.omdena.com/blog/floodguard-integrating-rainfall-time-series-and-gis-data-for-flood-prediction-and-waterbody-forecasting-in-bangladesh)
