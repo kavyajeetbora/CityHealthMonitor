@@ -27,3 +27,6 @@ List of companies that work in similar roles:
 
 ## Articles and Projects:
 1. [Flood prediction in Bangladesh](https://www.omdena.com/blog/floodguard-integrating-rainfall-time-series-and-gis-data-for-flood-prediction-and-waterbody-forecasting-in-bangladesh)
+2. [Vegetation Indices To Drive Digital Agri Solutions](https://eos.com/blog/vegetation-indices/#lai)
+3. [Urban Heat Island Index Explained](https://kermap.com/en/urban-heat-islands-explained/)
+4. [Urban vegetation](https://kermap.com/en/urban-vegetation-the-case-for-green-cities/)
