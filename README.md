@@ -1,3 +1,5 @@
+<img src='https://github.com/kavyajeetbora/CityHealthMonitor/assets/38955297/57ad7b52-9cef-48dc-b279-2e2c3768741b' height=200/>
+
 # Health Monitor for Delhi
 
 ## TODO
